@@ -26,6 +26,6 @@
 
 # Where am I deployed?
 
-<enter your URL here>
+https://waynemuse-cpsc490-deployrepo-3cca90129849.herokuapp.com/
 
 
